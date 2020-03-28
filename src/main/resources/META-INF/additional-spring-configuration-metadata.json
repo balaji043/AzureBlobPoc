@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "azure.storage.ConnectionString",
+      "type": "java.lang.String",
+      "description": "Connection String of Azure Blob Storage."
+    },
+    {
+      "name": "azure.storage.container.name",
+      "type": "java.lang.String",
+      "description": "Just any Container Name."
+    }
+  ]
+}
